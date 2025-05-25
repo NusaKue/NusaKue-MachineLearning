@@ -67,22 +67,14 @@ Model yang dibangun menunjukkan akurasi yang cukup baik dengan menerapkan :
 
 ---
 
-## ❤️ Tujuan Sosial
-
-Kami percaya bahwa AI dan teknologi modern bisa menjadi alat ampuh untuk pelestarian budaya. Dengan NusaKue, kami ingin membawa warisan kuliner Indonesia lebih dekat dengan generasi muda melalui pengalaman belajar yang interaktif dan menyenangkan.
-
-"Makan kue, kenali budaya!"
-
----
-
 ## 👨‍💻 Tim Machine Learning
 
 Tim Machine Learning bertanggung jawab dalam seluruh proses pengembangan model klasifikasi gambar — mulai dari pengumpulan data, pemrosesan, pelatihan, hingga konversi model untuk integrasi ke dalam sistem web.
 
 ### Anggota Tim ML:
-- **Fiyanda Ma'muri** 
-- **Bagus Dzakiy Rahman Saputra**  
-- **Ady Subagya Junior**  
+- Fiyanda Ma'muri
+- Bagus Dzakiy Rahman Saputra 
+- Ady Subagya Junior
  
 
 > Kami bekerja secara kolaboratif untuk memastikan hasil model tidak hanya akurat, tetapi juga dapat digunakan langsung oleh tim backend dan frontend sebagai bagian dari ekosistem aplikasi **NusaKue**.
